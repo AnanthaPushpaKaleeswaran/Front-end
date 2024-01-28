@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    margin-left: auto;
+    margin-right:   10%;
+}
+.top{
+    display: flex;
+    margin-top: 2%;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+.mid{
+    display: flex;
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 100px;
+    height: 10%;
+    background-color:antiquewhite;
+}
